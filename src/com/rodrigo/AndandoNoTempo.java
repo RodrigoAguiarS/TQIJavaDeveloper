@@ -27,7 +27,7 @@ caso contrário.*/
 
 
 public class AndandoNoTempo {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
         int a = leitor.nextInt();
         int b = leitor.nextInt();
