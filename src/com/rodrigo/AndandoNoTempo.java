@@ -18,6 +18,7 @@ Neste desafio, dados os valores dos três créditos da máquina, seu programa de
 no tempo e voltar para o presente, fazendo pelo menos uma viagem e, no máximo, três viagens; sempre usando
 cada um dos três créditos no máximo uma vez.
 
+*
 Entrada
 A entrada consiste de uma linha contendo os valores dos três créditos A, B e C (1 ≤ A, B, C ≤ 1000).
 
